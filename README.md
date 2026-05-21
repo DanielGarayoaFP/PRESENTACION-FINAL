@@ -20,10 +20,20 @@ Hola a tots, em dic Dani. Al llarg d'aquest curs he enfocat el meu aprenentatge 
 ---
 
 ## 📁 3. El meu Repositori Central
-* 📂 **[Repositori Principal del Curs](ENLLAÇ_AL_TEU_REPO)** -> *Aquí resideix tot el meu contingut.*
+He organitzat la feina de manera que cada projecte i els seus fitxers s'identifiquin a l'acte:
+
+*    **[Projecte-01-Arranquem](https://github.com/DanielGarayoaFP/DanielGarayoaFP)** → *Presa de contacte i entorn.*
+*    **[Projecte-02-EverPia](https://github.com/DanielGarayoaFP/Projecte-2)** → *Consultoria inicial, infografia i DNI Sostenible.*
+*    **[Projecte-03-EverPia-2](https://github.com/DanielGarayoaFP/Projecte-3-Consultoria-EverPia)** → *Evolució de xarxa i polítiques de seguretat.*
+*    **[Projecte-04-EverPia-3](https://github.com/DanielGarayoaFP/PROJECTA-4)** → *Consolidació de sistemes i auditoria de vulnerabilitats.*
+*    **[Projecte-05-La-Incubadora](https://github.com/DanielGarayoaFP/projecte5-DanielGarayoaFP)** → *Desplegament de serveis i servidors base.*
+*    **[Projecte-06-Nexus](https://github.com/classesSMX2n/projecte6-DanielGarayoaFP)** → *Integració de sistemes de xarxa i routing avançat.*
+*    **[Projecte-07-Food-Logistics](https://github.com/classesSMX2n/projecte-7-DanielGarayoaFP)** → *Servidor de fitxers centralitzat, quotes i permisos.*
+*    **[Projecte-08-Connectat-al-Futur](https://github.com/classesSMX2n/projecte-8-DanielGarayoaFP)** → *Transformació digital i xarxa Wi-Fi 7 d'alt rendiment (Nova Imatge).*
+
 * 📄 **Documentació Tècnica Global:** [Enllaç a la teva carpeta de docs o wiki](ENLLAÇ)
 
-### 🚀 Resum dels 8 Projectes del Curs
+### Resum dels 8 Projectes del Curs
 A continuació, mostro la llista completa dels projectes treballats. Tots estan completament indexats i ordenats amb el seu respectiu producte final:
 
 | Projecte | Objectiu Principal | Producte Final Destacat |
