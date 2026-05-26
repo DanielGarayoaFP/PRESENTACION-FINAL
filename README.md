@@ -50,12 +50,12 @@ A continuació, mostro la llista completa dels projectes treballats. Tots estan 
 ---
 
 ## 🛠️ 4. Metodologia i Gestió del Temps
-* 📊 **El meu Tauler Kanban de referència:** [Enllaç al teu GitHub Projects o captura](ENLLAÇ1.md)
-* 📈 **Diagrama de Gantt de Planificació:** [Enllaç o imatge del Gantt](ENLLAÇ2.md)
+* **El meu Tauler Kanban de referència:** [Enllaç al teu GitHub Projects o captura](ENLLAÇ1.md)
+* **Diagrama de Gantt de Planificació:** [Enllaç o imatge del Gantt](ENLLAÇ2.md)
 
 ---
 
-## 🎯 5. Conclusions i Aprenentatges
+##  5. Conclusions i Aprenentatges
 * **Mentalitat Prèmium:** La importància de presentar la documentació de forma minimalista i clara (estil Apple), facilitant la feina del client o del tribunal.
 * **Resolució de Problemes:** Aprendre a fer *troubleshooting* real quan un firewall o un switch no es comporten com s'esperava.
 * **Control de Canvis:** L'ordre a GitHub no és opcional, és l'eina que salva projectes.# PRESENTACION-FINAL
