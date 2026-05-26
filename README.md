@@ -27,9 +27,9 @@ He organitzat la feina de manera que cada projecte i els seus fitxers s'identifi
 *    **[Projecte-03-EverPia-2](https://github.com/DanielGarayoaFP/Projecte-3-Consultoria-EverPia)** → *Evolució de xarxa i polítiques de seguretat.*
 *    **[Projecte-04-EverPia-3](https://github.com/DanielGarayoaFP/PROJECTA-4)** → *Consolidació de sistemes i auditoria de vulnerabilitats.*
 *    **[Projecte-05-La-Incubadora](https://github.com/DanielGarayoaFP/projecte5-DanielGarayoaFP)** → *Desplegament de serveis i servidors base.*
-*    **[Projecte-06-Nexus](https://github.com/classesSMX2n/projecte6-DanielGarayoaFP)** → *Integració de sistemes de xarxa i routing avançat.*
-*    **[Projecte-07-Food-Logistics](https://github.com/classesSMX2n/projecte-7-DanielGarayoaFP)** → *Servidor de fitxers centralitzat, quotes i permisos.*
-*    **[Projecte-08-Connectat-al-Futur](https://github.com/classesSMX2n/projecte-8-DanielGarayoaFP)** → *Transformació digital i xarxa Wi-Fi 7 d'alt rendiment (Nova Imatge).*
+*    **[Projecte-06-Nexus](https://github.com/DanielGarayoaFP/projecte6-DanielGarayoaFP)** → *Integració de sistemes de xarxa i routing avançat.*
+*    **[Projecte-07-Food-Logistics](https://github.com/DanielGarayoaFP/projecte-7-DanielGarayoaFP)** → *Servidor de fitxers centralitzat, quotes i permisos.*
+*    **[Projecte-08-Connectat-al-Futur](https://github.com/DanielGarayoaFP/projecte-8-DanielGarayoaFP)** → *Transformació digital i xarxa Wi-Fi 7 d'alt rendiment (Nova Imatge).*
 
 * 📄 **Documentació Tècnica Global:** [Enllaç a la teva carpeta de docs o wiki](ENLLAÇ)
 
