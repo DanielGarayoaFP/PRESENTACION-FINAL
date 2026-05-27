@@ -11,15 +11,18 @@ Hola a tots, em dic Dani. Al llarg d'aquest curs he enfocat el meu aprenentatge 
 
 ---
 
-## Esquema de la Defensa
-1. **El meu ecosistema a GitHub:** Organització, neteja de codi/estructures i la importància del control de versions (`commits` amb sentit).
-2. **Anàlisi de Projectes Clau:** Arquitectura, justificació de decisions tècniques i resolució d'imprevistos.
-3. **Metodologia de Treball:** Com es passa d'un problema a una solució utilitzant Kanban, Gantt i el flux de treball real.
-4. **Conclusions i Aprenentatges:** El valor de la resiliència tècnica.
+COMPETENCIES
+Administracio i Xarxes: 
+
+<img width="400" height="20" alt="image" src="https://github.com/user-attachments/assets/89660548-2d33-41a2-a555-0d826f2feeaf" />
+
+Automatització i Gestió: 
+
+<img width="400" height="20" alt="image" src="https://github.com/user-attachments/assets/f38eecf3-f3f3-4c89-8fbb-354e69ef1bca" />
 
 ---
 
-## 📁 3. El meu Repositori Central
+## 📁 Projectes Destacats (SMX2)
 He organitzat la feina de manera que cada projecte i els seus fitxers s'identifiquin a l'acte:
 
 *    **[Projecte-01-Arranquem](https://github.com/DanielGarayoaFP/DanielGarayoaFP)** → *Presa de contacte i entorn.*
