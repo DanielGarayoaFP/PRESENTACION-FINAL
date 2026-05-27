@@ -34,7 +34,7 @@ He organitzat la feina de manera que cada projecte i els seus fitxers s'identifi
 *    **[Projecte-07-Food-Logistics](https://github.com/DanielGarayoaFP/projecte-7-DanielGarayoaFP)** → *Servidor de fitxers centralitzat, quotes i permisos.*
 *    **[Projecte-08-Connectat-al-Futur](https://github.com/DanielGarayoaFP/projecte-8-DanielGarayoaFP)** → *Transformació digital i xarxa Wi-Fi 7 d'alt rendiment (Nova Imatge).*
 
-* 📄 **Documentació Tècnica Global:** [Enllaç a la teva carpeta de docs o wiki](ENLLAÇ)
+* 📄 **Documentació Tècnica Global:** [Carpeta DRIVE](https://drive.google.com/drive/folders/14Fi_ELodU_7d4tkEfxaAuD5D_iWR9dKX)
 
 ### Resum dels 8 Projectes del Curs
 A continuació, mostro la llista completa dels projectes treballats. Tots estan completament indexats i ordenats amb el seu respectiu producte final:
