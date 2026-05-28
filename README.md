@@ -54,7 +54,7 @@ A continuació, mostro la llista completa dels projectes treballats. Tots estan 
 ---
 
 ## 🛠️ 4. Metodologia i Gestió del Temps
-* **El meu Tauler Kanban de referència:** [Enllaç al teu GitHub Projects o captura](ENLLAÇ1.md)
+* **El meu Planner** [Enllaç al teu Planner Projects o captura](PLANNER.md)
 * **Diagrama de Gantt de Planificació:** [Enllaç o imatge del Gantt](ENLLAÇ2.md)
 
 ---
